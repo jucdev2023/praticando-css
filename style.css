@@ -123,12 +123,14 @@ main {
     margin-top: 40px;
 }
 .email {
-    min-width: 200px;
+    min-width: 400px;
     height: 40px;
     border-radius: 10px;
     border: none;
     padding: 10px;
+    outline: none;
 }
+
 .submit {
     min-width: 50px;
     height: 40px;
